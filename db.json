@@ -17,16 +17,15 @@
       "email": "myxzdlgozie@gmail.com",
       "password": "123456",
       "id": 4
+    },
+    {
+      "name": "esther ",
+      "email": "ester@gmail.com",
+      "password": "12345",
+      "id": 5
     }
   ],
   "animals": [
-    {
-      "name": "LION   ",
-      "image": "https://i.pinimg.com/originals/0c/a1/63/0ca16314a6dae61a624ba9d9cce57c07.jpg",
-      "family": "Felidae",
-      "content": "The lion (Panthera leo) is a species in the family Felidae. ",
-      "id": 1
-    },
     {
       "id": 2,
       "name": "ELEPHANT",
@@ -40,6 +39,13 @@
       "family": "Giraffa camelopardalis",
       "image": "https://i.pinimg.com/originals/2b/af/a3/2bafa3010c61806089e6d623905b5f56.jpg",
       "content": "The giraffe (Giraffa) is an African even-toed ungulate mammal, the tallest living terrestrial animal ."
+    },
+    {
+      "name": "chimpaze",
+      "image": "bvnfmf,",
+      "family": "hjbfn.v",
+      "content": ",gsjhkfcjk;slvvsjvlkfs",
+      "id": 8
     }
   ]
 }
